@@ -11,9 +11,9 @@ import { zodResolver } from "@hookform/resolvers/zod";
 import { useMutation } from "@tanstack/react-query";
 import { useToast } from "@/hooks/use-toast";
 import { apiRequest } from "@/lib/queryClient";
-import { insertContactSubmissionSchema } from "@shared/schema";
+import { insertContactSubmissionSchema } from "@/lib/clientSchema";
 import { fadeInUp, staggerContainer } from "@/lib/animations";
-import type { InsertContactSubmission } from "@shared/schema";
+import type { InsertContactSubmission } from "@/lib/clientSchema";
 
 export default function Contact() {
   const { ref, inView } = useInView({
