@@ -1,0 +1,94 @@
+Build a **futuristic, animated, and mind-blowingly modern website** for **Vita Solar photovoltaïque**, a solar energy company based in Hammamet, Tunisia.
+
+The design should be inspired by https://us.sunpower.com in terms of clean structure and professionalism, but enhanced with **Framer Motion animations**, **Lottie icons**, **glassmorphism**, and **futuristic UI effects** to make it feel alive, dynamic, and forward-thinking.
+
+---
+
+🔆 Company Info:
+- Name: Vita Solar photovoltaïque
+- Founded: 2025
+- Location: Hammamet, Nabeul, Tunisia
+- Phone: 52 77 99 10
+- Mission: Fournir des solutions photovoltaïques rentables et écologiques pour permettre à chacun de devenir acteur de sa propre transition énergétique.
+- Services:
+  1. 📊 Études personnalisées
+  2. 🏠 Installation sur toit ou terrain
+  3. 🔧 Maintenance & suivi
+  4. 🔋 Solutions de stockage
+
+---
+
+💡 Design Style:
+- Clean grid layout (like SunPower)
+- Use **Framer Motion** for scroll animations, reveal effects, hover microinteractions
+- Use **Lottie animations** for icons (solar panel, battery, tools, sun)
+- **Glassmorphism cards** for service blocks (translucent, blur, soft border)
+- **Glow buttons** with gradient borders & ripple click effect
+- Include **animated gradient backgrounds** and **parallax solar particles** in hero or sections
+- Use **custom cursor** with hover trails or magnetic CTA effects
+- Add **dark mode toggle** with sun → moon morph animation
+- Include **floating geometric shapes or animated solar waves** in background layers
+
+---
+
+🎨 Color Palette:
+- Solar Yellow: #FFB300
+- Eco Green: #4CAF50
+- Charcoal Black: #1A1A1A
+- Sky Blue Accent: #40C4FF
+- White for contrast
+- Optional background: Gradient `linear-gradient(135deg, #0F2027, #203A43, #2C5364)`
+
+📐 Fonts:
+- Headings: `Sora` or `Poppins`
+- Body: `Inter` or `Roboto`
+- Optional Tech Font Accent: `Orbitron` (for metrics or UI details)
+
+---
+
+📑 Page Structure:
+
+1. **Sticky Header**
+   - Transparent glass navbar with scroll effect
+   - Animated CTA: “Demandez un devis gratuit”
+
+2. **Hero Section**
+   - Fullscreen with animated **solar particles background**
+   - Headline with **Framer Motion fade-in**:
+     > “🌞 Rendez l’énergie solaire accessible et rentable”
+   - Button with hover glow: “Commencer votre projet”
+   - Optional sun dial or animated solar gradient
+
+3. **À propos Section**
+   - Slide-in text on scroll
+   - Icons (Lottie): 🛠️ Expertise, ⚡ Performance, 🌱 Écologie
+   - Use glassmorphism card layout
+
+4. **Nos Services**
+   - 4 service cards (📊 🏠 🔧 🔋)
+   - Use **hover tilt + scale + glow effect**
+   - Cards expand with morph animation on click
+
+5. **Pourquoi nous choisir**
+   - 3 glowing feature blocks: Transparence, Qualité, Proximité
+   - Add **floating futuristic SVG shapes** in background
+
+6. **Contact Section**
+   - Form with floating labels + pulse animation on submit
+   - Map of Hammamet with animated pin
+   - All text scroll-fades into view
+
+7. **Footer**
+   - Floating solar icon
+   - Social icons (LinkedIn, WhatsApp) with bounce on hover
+   - Copyright © Vita Solar 2025
+
+---
+
+📱 Mobile-First & Fast:
+- Responsive layout
+- Fast animations, not heavy
+- Optimized scroll + accessibility
+
+🎯 Objective:
+Make the website feel like the **Apple of solar energy** in Tunisia — a company of the future, today.

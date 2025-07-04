@@ -1,0 +1,78 @@
+Build a clean, professional, and high-converting website for **Vita Solar photovoltaïque**, a Tunisian company that installs solar energy systems for individuals and businesses.
+
+🏗️ Design Style:
+- Inspired by: https://us.sunpower.com/
+- Sleek and modern layout
+- High-quality images of solar panels and rooftops in Tunisia
+- Lots of whitespace, bold section headings, and call-to-action buttons
+- Sticky nav bar, smooth scroll, subtle fade-in animations
+- Mobile-first, SEO-friendly, and fast loading
+
+🎨 Color Palette:
+- Solar Yellow: #FFB300
+- Eco Green: #4CAF50
+- Deep Charcoal: #1A1A1A
+- White: #FFFFFF
+- Optional accent: Sky Blue (#4A90E2)
+
+🖍️ Fonts: Use bold, modern fonts like `Poppins`, `Montserrat`, or `Inter`
+
+---
+
+🏢 Company Info:
+**Name:** Vita Solar photovoltaïque  
+**Location:** Hammamet, Nabeul, Tunisia  
+**Phone:** 52 77 99 10  
+**Founded:** 2025  
+**Mission:** Fournir des solutions photovoltaïques rentables et écologiques pour permettre à chacun de devenir acteur de sa propre transition énergétique.  
+
+---
+
+📑 Pages / Sections to Include:
+
+1. **Header:**
+   - Sticky navigation bar with logo + links (Accueil, À propos, Services, Contact)
+   - CTA button: “Demandez un devis gratuit”
+
+2. **Hero Section (Homepage):**
+   - Full-width high-res image of rooftop solar panels in Tunisia
+   - Headline:
+     > “🌞 Rendez l’énergie solaire accessible et rentable”
+   - Subheadline:
+     > Solutions photovoltaïques sur mesure pour particuliers et entreprises
+   - Primary CTA: “Commencer votre projet”
+
+3. **About Us Section:**
+   - Text: Vita Solar est une entreprise jeune et innovante spécialisée dans l'installation de panneaux photovoltaïques. Nous accompagnons nos clients dans toutes les étapes : audit, installation, maintenance.
+   - Icons or bullet points: 🛠️ Qualité, ⚡ Rentabilité, 🌱 Écologie
+
+4. **Our Services Section (Grid):**
+   - 📊 Études personnalisées pour optimiser votre installation solaire
+   - 🏠 Installation de panneaux sur toit ou terrain
+   - 🔧 Maintenance & suivi sur le long terme
+   - 🔋 Solutions de stockage pour maximiser l'autoconsommation
+   - Each block with image/icon + title + 2-line description
+
+5. **Why Choose Us Section:**
+   - 3 pillars: Transparence – Qualité – Proximité
+   - Testimonials slider (can be placeholder)
+
+6. **Contact Section:**
+   - Simple form (Name, Email, Message)
+   - Address & phone info: Hammamet, Nabeul – 52 77 99 10
+   - Optional embedded map
+
+7. **Footer:**
+   - Social icons (LinkedIn, WhatsApp)
+   - Quick links
+   - Copyright 2025
+
+---
+
+💡 Functionality:
+- Light fade-in animations when scrolling
+- CTA buttons with hover glow
+- Mobile navigation drawer
+- Optional sticky “Request Quote” button on scroll
+
+This site should feel clean, trustworthy, and professional — exactly like https://us.sunpower.com/, but tailored for the Tunisian market and in French.

@@ -1,0 +1,114 @@
+Create a futuristic, visually stunning, and animated website for **Vita Solar photovoltaïque**, a Tunisian solar energy company.
+
+🧠 Structure: Based on https://us.sunpower.com but with added animations, immersive design, and advanced UI effects.
+
+⚙️ Use:
+- **Framer Motion** for scroll-based reveal effects
+- **Glassmorphism** for section blocks (blurred translucent panels)
+- **Animated gradients**, **hover glows**, **microinteractions**
+- **Parallax layers** or **particles background** (e.g., Vanta.js)
+- Futuristic typography, color transitions, and soft lighting
+
+🎨 Style:
+- Solar Yellow (#FFB300), Eco Green (#4CAF50), Deep Charcoal (#1A1A1A), Sky Blue Accent (#40C4FF)
+- Fonts: `Sora`, `Poppins`, `Orbitron` (for metrics/tech)
+- Background: Subtle animated gradient or star-like solar particle field
+
+---
+
+🧱 Website Structure & Sections:
+
+1. 🔝 **Sticky Header**
+   - Glassy navigation bar with slide-in animation
+   - Links: Accueil | À propos | Services | Énergie Solaire | Contact
+   - CTA Button: “Obtenez un devis gratuit” (animated border & glow)
+
+---
+
+2. 🎥 **Hero Section (Animated)**
+   - Full-screen hero with animated particles or abstract solar lines
+   - Headline (fade-in & typewriter effect):
+     > “🌞 Rendez l’énergie solaire accessible et rentable”
+   - Subheadline: “Solutions sur mesure pour les particuliers et entreprises”
+   - CTA button with pulse effect: “Commencer votre projet”
+
+---
+
+3. 💡 **Key Value Proposition Section**
+   - 3 Glassmorphism cards:
+     - 💼 *Transparence*
+     - 🏗️ *Expertise & Qualité*
+     - ♻️ *Écologie & Rentabilité*
+   - Each card has icon animation and slides in on scroll
+
+---
+
+4. 🌍 **Energy Independence Section**
+   - Full-width parallax background showing Tunisian rooftops or a glowing sun
+   - Text: “Devenez acteur de votre propre transition énergétique”
+   - CTA: “Simuler votre projet solaire”
+
+---
+
+5. 🔧 **Feature Grid**
+   - 6 animated tiles:
+     - 🎓 Expérience
+     - 🧱 Qualité Premium
+     - 🧠 Études personnalisées
+     - ⚙️ Processus fluide
+     - 📜 Garantie 25 ans
+     - 🔋 Écosystème intelligent
+   - Hover glow & scale animations
+
+---
+
+6. 🏠 **Solution Blocks (Cards with Framer Motion)**
+   - Residential Solar
+   - Solar Battery Storage
+   - B2B / Project Builders
+   - Each block with image, title, and CTA: “En savoir plus”
+
+---
+
+7. 📢 **CEO or Company Message Section**
+   - Quote or mission statement:
+     > “Nous croyons à un avenir plus propre, alimenté par le soleil tunisien.”
+   - Motion-animated background gradient
+   - Optional video or animated badge (Lottie)
+
+---
+
+8. 📚 **Solar Resource Section (Accordion or Cards)**
+   - Expandable Q&A: “Comment fonctionne le solaire?”, “Est-ce rentable?”, “Que faire si je n’ai pas de toit?”
+   - Include animated icons + reveal effect
+
+---
+
+9. 📞 **Final CTA & Contact Section**
+   - Contact form with floating labels
+   - Embedded map of Hammamet, TN
+   - Phone: 📞 52 77 99 10
+   - CTA: “Obtenez votre devis gratuit maintenant”
+
+---
+
+10. 🦾 **Footer (Futuristic & Minimal)**
+   - Glass footer with neon border lines
+   - Socials: LinkedIn, WhatsApp
+   - Quick links & privacy/legal
+   - Optional easter egg: animated solar waveform or energy meter
+
+---
+
+📱 Mobile-First:
+- Collapsible menu
+- Scroll snap sections
+- Touch-friendly CTA areas
+- High performance for slower Tunisian networks
+
+🎯 Goal:
+Make Vita Solar look like the **"Apple of solar energy" in Tunisia** — bold, reliable, and built for the future.
+
+Bonus (optional):
+- Add a **live solar simulator** (mockup) or fake dashboard
+- Include solar savings estimator or CO₂ calculator

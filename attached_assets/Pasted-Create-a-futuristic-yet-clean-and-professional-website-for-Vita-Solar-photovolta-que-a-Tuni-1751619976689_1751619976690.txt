@@ -1,0 +1,63 @@
+Create a **futuristic yet clean and professional website** for **Vita Solar photovoltaïque**, a Tunisian solar company. The design should be inspired by https://us.sunpower.com, but enhanced with **Framer Motion** animations and a modern **tech-clean style**.
+
+⚠️ Use:
+- **Framer Motion** for all scroll + element animations
+- **Subtle futuristic styling**: gradients, micro-interactions, soft shadows
+- **Smooth transitions**, hover effects, animated headers
+
+🏗️ Structure:
+
+1. **Sticky Header (Animated Entrance)**  
+   - Logo on left, nav on right: Accueil, À propos, Services, Contact  
+   - CTA Button: “Demandez un devis gratuit”  
+   - On load: header fades/slides into view with Framer Motion
+
+2. **Hero Section (Animated Entry + Floating Elements)**  
+   - Fullscreen background of rooftop solar panels in Tunisia  
+   - Text fades + scales in:
+     > “🌞 Rendez l’énergie solaire accessible et rentable”  
+     > “Solutions photovoltaïques sur mesure pour particuliers et entreprises”  
+   - CTA: Button with glowing hover + press animation  
+   - Optional: animated sun rays or particles moving slowly
+
+3. **À propos (About) Section (Slide-in on Scroll)**  
+   - Text block:
+     > Vita Solar est une entreprise jeune et innovante spécialisée dans l'installation de panneaux photovoltaïques.  
+   - Add animated icons: 🛠️ Qualité, ⚡ Rentabilité, 🌱 Écologie  
+   - Section slides in from left with Framer Motion on scroll
+
+4. **Nos Services (Animated Cards)**  
+   - 4 Cards with icons + titles + short description  
+     - 📊 Études personnalisées  
+     - 🏠 Installation sur toit ou terrain  
+     - 🔧 Maintenance & suivi  
+     - 🔋 Solutions de stockage  
+   - Each card has hover tilt + pop effect using Framer Motion
+
+5. **Pourquoi nous choisir (Trust Section)**  
+   - Text + 3 animated bubbles or blocks:
+     - Transparence, Qualité, Proximité  
+   - Soft glowing borders or glassmorphism cards (modern)
+
+6. **Contact Section (Form Fade-Up + Map)**  
+   - Form: Name, Email, Message  
+   - Embedded Google Map (Hammamet, Nabeul)  
+   - Info: Phone number: 52 77 99 10
+
+7. **Footer**  
+   - Minimal and clean  
+   - Social icons (LinkedIn, WhatsApp) with hover animations  
+   - Copyright © Vita Solar 2025
+
+🎨 Design Style:
+- White background with dark text  
+- Futuristic accents: solar gradients, soft shadows, subtle blurs  
+- Color Palette:  
+   - Solar Yellow: #FFB300  
+   - Eco Green: #4CAF50  
+   - Charcoal: #1E1E1E  
+   - Accent: Light Sky Blue (#A0DFFF)
+
+🧠 Fonts: Use `Poppins` or `Sora` (bold + modern)  
+🌐 Responsive: Mobile-first, fast load, smooth scrolling  
+🎬 Animations: All scroll + hover effects must use **Framer Motion** or **GSAP**  
